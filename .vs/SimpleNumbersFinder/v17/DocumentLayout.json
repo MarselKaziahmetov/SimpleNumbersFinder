@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.NET Projects\\SimpleNumbersFinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138C3FF4-D771-42BB-AFE1-7CF76A6ED7A1}|SimpleNumbersFinder\\SimpleNumbersFinder.vcxproj|D:\\ASP.NET Projects\\SimpleNumbersFinder\\SimpleNumbersFinder\\SimpleNumbersFinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{138C3FF4-D771-42BB-AFE1-7CF76A6ED7A1}|SimpleNumbersFinder\\SimpleNumbersFinder.vcxproj|solutionrelative:SimpleNumbersFinder\\SimpleNumbersFinder.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimpleNumbersFinder.cpp",
+              "DocumentMoniker": "D:\\ASP.NET Projects\\SimpleNumbersFinder\\SimpleNumbersFinder\\SimpleNumbersFinder.cpp",
+              "RelativeDocumentMoniker": "SimpleNumbersFinder\\SimpleNumbersFinder.cpp",
+              "ToolTip": "D:\\ASP.NET Projects\\SimpleNumbersFinder\\SimpleNumbersFinder\\SimpleNumbersFinder.cpp",
+              "RelativeToolTip": "SimpleNumbersFinder\\SimpleNumbersFinder.cpp",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-15T14:03:23.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
