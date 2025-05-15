@@ -1,0 +1,14 @@
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\bin\Debug\net8.0\SimpleNumbersSearch.exe
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\bin\Debug\net8.0\SimpleNumbersSearch.deps.json
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\bin\Debug\net8.0\SimpleNumbersSearch.runtimeconfig.json
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\bin\Debug\net8.0\SimpleNumbersSearch.dll
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\bin\Debug\net8.0\SimpleNumbersSearch.pdb
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\obj\Debug\net8.0\SimpleNumbersSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\obj\Debug\net8.0\SimpleNumbersSearch.AssemblyInfoInputs.cache
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\obj\Debug\net8.0\SimpleNumbersSearch.AssemblyInfo.cs
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\obj\Debug\net8.0\SimpleNumbersSearch.csproj.CoreCompileInputs.cache
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\obj\Debug\net8.0\SimpleNumbersSearch.dll
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\obj\Debug\net8.0\refint\SimpleNumbersSearch.dll
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\obj\Debug\net8.0\SimpleNumbersSearch.pdb
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\obj\Debug\net8.0\SimpleNumbersSearch.genruntimeconfig.cache
+D:\ASP.NET Projects\SimpleNumbersSearch\SimpleNumbersSearch\obj\Debug\net8.0\ref\SimpleNumbersSearch.dll
