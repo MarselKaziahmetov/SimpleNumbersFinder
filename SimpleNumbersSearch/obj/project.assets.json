@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ASP.NET Projects\\SimpleNumbersSearch\\SimpleNumbersSearch\\SimpleNumbersSearch.csproj",
+      "projectUniqueName": "D:\\Unity Projects\\SimpleNumbersFinder\\SimpleNumbersSearch\\SimpleNumbersSearch.csproj",
       "projectName": "SimpleNumbersSearch",
-      "projectPath": "D:\\ASP.NET Projects\\SimpleNumbersSearch\\SimpleNumbersSearch\\SimpleNumbersSearch.csproj",
+      "projectPath": "D:\\Unity Projects\\SimpleNumbersFinder\\SimpleNumbersSearch\\SimpleNumbersSearch.csproj",
       "packagesPath": "C:\\Users\\marse\\.nuget\\packages\\",
-      "outputPath": "D:\\ASP.NET Projects\\SimpleNumbersSearch\\SimpleNumbersSearch\\obj\\",
+      "outputPath": "D:\\Unity Projects\\SimpleNumbersFinder\\SimpleNumbersSearch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -65,15 +65,8 @@
 
         private void FillInterval(int a, int b, List<int> array)
         {
-            Console.Write("\nПолученный интервал: [");
-
             for (int i = a; i <= b; i++)
-            {
                 array.Add(i);
-                Console.Write($"{i}, ");
-            }
-
-            Console.Write("]\n");
         }
 
         private void DetermineSimpleNumbers(List<int> array)

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleNumbersSearch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+567e4bc7519c4c8584d0194a3dbf157afd32aa6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleNumbersSearch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleNumbersSearch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

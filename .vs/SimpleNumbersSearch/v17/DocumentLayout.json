@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ASP.NET Projects\\SimpleNumbersSearch\\",
+  "WorkspaceRootPath": "D:\\Unity Projects\\SimpleNumbersFinder\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DA085523-93EC-4D84-9F9D-C8E67DF54041}|SimpleNumbersSearch\\SimpleNumbersSearch.csproj|d:\\asp.net projects\\simplenumberssearch\\simplenumberssearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DA085523-93EC-4D84-9F9D-C8E67DF54041}|SimpleNumbersSearch\\SimpleNumbersSearch.csproj|d:\\unity projects\\simplenumbersfinder\\simplenumberssearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DA085523-93EC-4D84-9F9D-C8E67DF54041}|SimpleNumbersSearch\\SimpleNumbersSearch.csproj|solutionrelative:simplenumberssearch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ASP.NET Projects\\SimpleNumbersSearch\\SimpleNumbersSearch\\Program.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\SimpleNumbersFinder\\SimpleNumbersSearch\\Program.cs",
               "RelativeDocumentMoniker": "SimpleNumbersSearch\\Program.cs",
-              "ToolTip": "D:\\ASP.NET Projects\\SimpleNumbersSearch\\SimpleNumbersSearch\\Program.cs",
+              "ToolTip": "D:\\Unity Projects\\SimpleNumbersFinder\\SimpleNumbersSearch\\Program.cs",
               "RelativeToolTip": "SimpleNumbersSearch\\Program.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAwwGcAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvzIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T12:21:35.801Z",
               "EditorCaption": ""
