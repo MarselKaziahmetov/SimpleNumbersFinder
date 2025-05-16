@@ -13,14 +13,12 @@
     {
         private int leftPoint;
         private int rightPoint;
-        private List<int> interval = new List<int>();
         private List<int> simpleNumbers = new List<int>();
 
         public void ExecuteSimpleNumbersFinder()
         {
             InputInterval();
-            FillInterval(leftPoint, rightPoint, interval);
-            DetermineSimpleNumbers(interval);
+            DetermineSimpleNumbers(leftPoint, rightPoint);
             Console.WriteLine($"Количество простых чисел наденных в интервале: {simpleNumbers.Count}");
         }
 
@@ -63,16 +61,10 @@
             return true;
         }
 
-        private void FillInterval(int a, int b, List<int> array)
-        {
-            for (int i = a; i <= b; i++)
-                array.Add(i);
-        }
-
-        private void DetermineSimpleNumbers(List<int> array)
+        private void DetermineSimpleNumbers(int a, int b)
         {
             Console.Write("\nПростые числа: [");
-            foreach (int i in array)
+            for (int i = a; i <= b; i++)
             {
                 if (IsSimpleNumber(i))
                 {
